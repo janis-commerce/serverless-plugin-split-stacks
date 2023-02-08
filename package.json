@@ -42,6 +42,6 @@
     "throat": "^5.0.0"
   },
   "peerDependencies": {
-    "serverless": "1"
+    "serverless": "1 || 2"
   }
 }
