@@ -1,4 +1,7 @@
-[![CircleCI](https://circleci.com/gh/dougmoscrop/serverless-plugin-split-stacks.svg?style=svg)](https://circleci.com/gh/dougmoscrop/serverless-plugin-split-stacks)
+[![npm version](https://badge.fury.io/js/%40janiscommerce%2Fserverless-plugin-split-stacks.svg)](https://www.npmjs.com/package/@janiscommerce/serverless-plugin-split-stacks)
+
+
+The following package its a fork of the [serverless-plugin-split-stacks](https://github.com/dougmoscrop/serverless-plugin-split-stacks) package.
 
 # serverless-plugin-split-stacks
 
