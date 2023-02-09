@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dougmoscrop/serverless-plugin-split-stacks.git"
+    "url": "git+https://github.com/janis-commerce/serverless-plugin-split-stacks.git"
   },
   "keywords": [
     "serverless",
@@ -22,9 +22,9 @@
   "author": "Doug Moscrop <doug.moscrop@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dougmoscrop/serverless-plugin-split-stacks/issues"
+    "url": "https://github.com/janis-commerce/serverless-plugin-split-stacks/issues"
   },
-  "homepage": "https://github.com/dougmoscrop/serverless-plugin-split-stacks#readme",
+  "homepage": "https://github.com/janis-commerce/serverless-plugin-split-stacks#readme",
   "devDependencies": {
     "ava": "^1.4.1",
     "eslint": "^6.1.0",
